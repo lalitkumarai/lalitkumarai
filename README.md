@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Lalit</h1>
-<h3 align="center">🚀 Backend-Focused Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
