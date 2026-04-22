@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech Student | Preparing for MBA
+- 🎓 B.Tech Student 
 - 💻 Passionate about Backend Development & System Design
 - ⚙️ Currently working on: **CI/CD Pipeline for Java Applications**
 - 🌱 Learning: **Cloud, DevOps, Advanced Backend Systems**
@@ -48,8 +48,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/lalit-kumar-075a1422a/))
+- 📧 Email: lalitrajput79026@gmail.com
 
 ---
 
