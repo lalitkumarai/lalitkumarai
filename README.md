@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech Student 
 - 💻 Passionate about Backend Development & System Design
-- ⚙️ Currently working on: **CI/CD Pipeline for Java Applications**
+- ⚙️ Currently working on: **Self-Service ML Notebook System**
 - 🌱 Learning: **Cloud, DevOps, Advanced Backend Systems**
 - 🎯 Goal: Build scalable systems & impactful tech products
 
@@ -24,12 +24,15 @@
 
 ## 🚀 Projects
 ### 🔹 CI/CD Automation Project
-- Automated build, test & deployment using Docker & Jenkins
-- Reduced manual effort and improved efficiency
+- Designed an end-to-end CI/CD workflow to handle build, testing, and deployment processes
+- Enabled real-time feedback via event-driven notifications for faster issue resolution .
+- Maintained deployment consistency through containerized environments
 
 ### 🔹 Self-Service ML Notebook System
-- Provisioning system for ML environments
-- Focused on scalability and automation
+- Architected a self-service platform to provision ML notebook environments on demand, cutting manual setup effort by 80%
+- Orchestrated containerized Jupyter environments using Kubernetes, enabling scalable multi-user access
+- Devised secure authentication and resource allocation mechanisms to support concurrent users
+- Reduced environment provisioning time from hours to under 2 minutes, significantly boosting productivity
 
 ---
 
